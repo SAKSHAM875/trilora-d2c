@@ -1,0 +1,5 @@
+body { margin:0; font-family:Arial; }
+.hero { text-align:center; padding:50px; background:#f5f1e8; }
+.btn { background:#2c5e3f; color:white; padding:10px 20px; border-radius:6px; text-decoration:none; }
+.grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); gap:20px; }
+.card { border:1px solid #ddd; padding:10px; border-radius:6px; }
